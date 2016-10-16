@@ -15,7 +15,6 @@
   </ul>
   
   [Check this page for all the visualisation.](https://devipriyasarkar.github.io/MarketTrendAnalyzer/)
-  
-
-  
+ 
+  [PRESENTATION LINK](https://drive.google.com/open?id=0B5pZErdg5FBrVW0zNjBoUEtOYUU)
   
