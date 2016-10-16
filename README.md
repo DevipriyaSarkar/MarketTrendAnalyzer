@@ -1,4 +1,5 @@
 # MarketTrendAnalyzer 
+
   <b>DATA VISUALISATON WITH CHATBOT INTERFACE</b>
   <dd>This project aims to visualize the data provided as base data via chatbot interface powered by <b>IBM WATSON</b>.</dd>
   <dd>The base data is based on startup acquisitions for the past ten years.</dd>
@@ -13,5 +14,8 @@
   <li>G4-Amount Raised by Investors</li>
   </ul>
   
+  [Check this page for all the visualisation.](https://devipriyasarkar.github.io/MarketTrendAnalyzer/)
+  
+
   
   
